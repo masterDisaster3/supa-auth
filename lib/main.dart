@@ -9,12 +9,6 @@ void main() {
   runApp(const MyApp());
 }
 
-// masterHutirar@tutanota.com
-// ybg&^ITIGU&NUYKlgbjkfy
- 
-// atulraj@raaja.com
-// lirgjtosribjtrw
-
 class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
